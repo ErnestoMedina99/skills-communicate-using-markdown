@@ -2,3 +2,7 @@
 ## Subtítulo
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+~~~~ bash
+import numpy as np
+~~~~
